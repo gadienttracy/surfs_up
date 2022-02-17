@@ -4,10 +4,12 @@ The purpose of this analysis is to view the statistical descriptors for the mont
 
 ## Results
 * For the month of June there were exactly 1700 temperature readings.  The mean temperature was 74.9°.
+
 ![june temps](https://user-images.githubusercontent.com/91269696/154379232-e712c808-fd3c-4c0e-83f4-f890598cb1bd.PNG)
 
     *June summary statistics*
 * For the month of December there were only 1517 temperature readings. The mean temperature was 71°.
+
 ![dec temps](https://user-images.githubusercontent.com/91269696/154379442-d8cbb292-b2b2-4b93-8cd0-d8d1e84b52fb.PNG)
 
     *December summary statistics*
